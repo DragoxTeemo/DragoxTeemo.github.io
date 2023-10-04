@@ -1,6 +1,6 @@
 body {
   background-image: url("./image/bgc.png");
-  color:white;
+  color:"white";
 }
 
 h1{
@@ -42,7 +42,7 @@ div{
 
 #title {
     -webkit-text-stroke: 1px black;
-    font-family: sans; color: white;
+    font-family: sans; color: "white";
 }
 
 
@@ -54,11 +54,11 @@ nav.menu{
 	text-align:center;
 	font-size: 30px;
   overflow: hidden;
-  color: white;
+  color: "white";
 }
 
 a {
-  color: white;
+  color: "white";
  }
 
 a a:hover:not(.active) {
@@ -91,7 +91,7 @@ table{
 }
 
 .white{
-  background-color: white;
+  background-color: "white";
   padding-top: 10px;
   padding-bottom: 20px;
   padding-left: 30px;
