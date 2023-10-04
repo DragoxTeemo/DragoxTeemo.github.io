@@ -376,7 +376,6 @@ table.regular tfoot tr.footnotes td.footnotes p.footnotes a[id$=".p"] {
 table.regular tfoot tr.footnotes td.footnotes p.footnotes a[id^="anch"] {
 	text-transform: none;
 	 }
-
-#link{
-  color:blue;
+#link {
+   color:blue;
 }
